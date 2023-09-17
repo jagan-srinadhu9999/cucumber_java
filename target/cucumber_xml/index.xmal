@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Cucumber" time="13.306" tests="1" skipped="0" failures="0" errors="0">
+<testcase classname="Searching new Cars" name="Finding new car" time="12.997">
+<system-out><![CDATA[
+Given user navigates to carwale.com.........................................passed
+When user mouseover to Newcars..............................................passed
+Then user clicks FindNewCars................................................passed
+And user clicks Toyota cars.................................................passed
+And user verifies as a car title as Toyota Cars.............................passed
+]]></system-out>
+</testcase>
+</testsuite>
